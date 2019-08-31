@@ -1,0 +1,9 @@
+#max file and request size
+spring:
+  servlet:
+    multipart:
+      max-file-size: -1
+      max-request-size: -1
+
+tessdata:
+  location: classpath:tessdata\
