@@ -18,7 +18,7 @@
     "prettier": "prettier --write 'src/**/*.js' 'demo/src/**/*.js'"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "cors-prefetch-middleware": "^1.0.0",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
